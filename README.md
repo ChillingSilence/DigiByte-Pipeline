@@ -6,10 +6,10 @@ These are great for cutting your teeth on and getting introduced to DigiByte
 
 | Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
 | --- | --- | --- | --- | --- |
-| [0002](0002.md) | DigiAssets search in DigiExplorer | ChillingSilence | No | No |
-| [0003](0003.md) | Burn Assets on Android | ChillingSilence | No | No |
-| [0007](0007.md) | Dividends for DigiAssets | ChillingSilence | Yes | Yes |
-| [0009](0009.md) | Document Notarization website | ChillingSilence | Yes | No |
+| [0002](items/0002.md) | DigiAssets search in DigiExplorer | ChillingSilence | No | No |
+| [0003](items/0003.md) | Burn Assets on Android | ChillingSilence | No | No |
+| [0007](items/0007.md) | Dividends for DigiAssets | ChillingSilence | Yes | Yes |
+| [0009](items/0009.md) | Document Notarization website | ChillingSilence | Yes | No |
 | x | x | x | x | x |
 
 # Larger action items
@@ -17,9 +17,9 @@ More longer-term projects for people with prior experience or further time on th
 
 | Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
 | --- | --- | --- | --- | --- |
-| [0001](0001.md) | Merge Schnorr sigs | ChillingSilence | Potentially | Not yet |
-| [0004](0004.md) | Pull DGB Core 0.19 | ChillingSilence | No | Yes |
-| [0005](0005.md) | Implement ProgPoW | ChillingSilence | Potentially | Yes |
-| [0006](0006.md) | Implement RandomX | ChillingSilence | Potentially | No |
-| [0008](0008.md) | Lightning network integration | ChillingSilence | Potentially | No |
+| [0001](items/0001.md) | Merge Schnorr sigs | ChillingSilence | Potentially | Not yet |
+| [0004](items/0004.md) | Pull DGB Core 0.19 | ChillingSilence | No | Yes |
+| [0005](items/0005.md) | Implement ProgPoW | ChillingSilence | Potentially | Yes |
+| [0006](items/0006.md) | Implement RandomX | ChillingSilence | Potentially | No |
+| [0008](items/0008.md) | Lightning network integration | ChillingSilence | Potentially | No |
 | x | x | x | x | x |
