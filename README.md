@@ -4,7 +4,6 @@ A list of items that we want to do for DigiByte, some with / without bounties et
 # Smaller action items
 These are great for cutting your teeth on and getting introduced to DigiByte
 
--------------
 | Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
 | --- | --- | --- | --- | --- |
 | 0002 | DigiAssets search in DigiExplorer | ChillingSilence | No | No |
@@ -13,7 +12,6 @@ These are great for cutting your teeth on and getting introduced to DigiByte
 # Larger action items
 More longer-term projects for people with prior experience or further time on their hands
 
--------------
 | Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
 | --- | --- | --- | --- | --- |
 | 0001 | Merge Schnorr sigs | ChillingSilence | Potentially | Not yet |
