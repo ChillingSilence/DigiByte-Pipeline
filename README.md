@@ -6,7 +6,7 @@ These are great for cutting your teeth on and getting introduced to DigiByte
 
 | Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
 | --- | --- | --- | --- | --- |
-| 0002 | DigiAssets search in DigiExplorer | ChillingSilence | No | No |
+| [0002](0002.md) | DigiAssets search in DigiExplorer | ChillingSilence | No | No |
 | x | x | x | x | x |
 
 # Larger action items
@@ -14,4 +14,4 @@ More longer-term projects for people with prior experience or further time on th
 
 | Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
 | --- | --- | --- | --- | --- |
-| 0001 | Merge Schnorr sigs | ChillingSilence | Potentially | Not yet |
+| [0001](0001.md) | Merge Schnorr sigs | ChillingSilence | Potentially | Not yet |
