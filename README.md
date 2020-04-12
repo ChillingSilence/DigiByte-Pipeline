@@ -1,6 +1,8 @@
 # DigiByte Pipeline
 A list of items that we want to do for DigiByte, some with / without bounties etc attached, and others simply as a great way to cut your teeth on DigiByte
 
+Would you like to contribute? Open a pull request to modify the item and / or a GitHub issue to ask questions etc
+
 # Smaller action items
 These are great for cutting your teeth on and getting introduced to DigiByte
 
@@ -19,7 +21,7 @@ More longer-term projects for people with prior experience or further time on th
 | Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
 | --- | --- | --- | --- | --- |
 | [0001](items/0001.md) | Merge Schnorr sigs | ChillingSilence | Potentially | Not yet |
-| [0004](items/0004.md) | Pull DGB Core 0.19 | ChillingSilence | No | Yes |
+| [0004](items/0004.md) | Pull BTC Core 0.19 | ChillingSilence | No | Yes |
 | [0005](items/0005.md) | Implement ProgPoW | ChillingSilence | Potentially | Yes |
 | [0006](items/0006.md) | Implement RandomX | ChillingSilence | Potentially | No |
 | [0008](items/0008.md) | Lightning network integration | ChillingSilence | Potentially | No |
