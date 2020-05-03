@@ -42,7 +42,7 @@ Ongoing projects to dramatically improve Developer Engagement and Experience
 | [0014](items/0014.md) | Kotlin SDK | gto90 | TBD | Not yet |
 | [0015](items/0015.md) | Swift SDK | gto90 | TBD | Not yet |
 | [0016](items/0016.md) | VS Code Extension | gto90 | TBD | Not yet |
-| [0017](items/0017.md) | Webstorm Plugin | gto90 | TBD | Not yet |
+| [0017](items/0017.md) | IntelliJ Plugin | gto90 | TBD | Not yet |
 | [0018](items/0018.md) | Developer Landing Site | gto90 | TBD | Not yet |
 | [0019](items/0019.md) | Developer Getting Started JavaScript Site | gto90 | TBD | Not yet |
 | [0020](items/0020.md) | Developer Getting Started JavaScript Sample Projects | gto90 | TBD | Not yet |
