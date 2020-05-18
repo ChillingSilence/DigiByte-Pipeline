@@ -16,6 +16,8 @@ These are great for cutting your teeth on and getting introduced to DigiByte
 | [0009](items/0009.md) | Document Notarization website | ChillingSilence | Yes | No |
 | [0010](items/0010.md) | Update Core Wallet UI | ChillingSilence | No | Not yet |
 | [0011](items/0011.md) | Videos for the website | Murat | Potentially | Not yet |
+| [0027](items/0027.md) | Mobile app DigiAsset management | ChillingSilence | No | Not yet |
+| [0028](items/0028.md) | DigiAsset showcasing on mobile | ChillingSilence | No | Not yet |
 | x | x | x | x | x |
 
 ## Larger action items
@@ -37,7 +39,7 @@ Ongoing projects to dramatically improve Developer Engagement and Experience
 
 | Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
 | --- | --- | --- | --- | --- |
-| [0012](items/0012.md) | Self Contained DigiByte Testnet CLI (testnet container running a full node, CLI interface for interacting with the node) | gto90 | TBD | Not yet |
+| [0012](items/0012.md) | Self Contained DigiByte Testnet CLI (testnet container running a full node, CLI interface for interacting with the node) | gto90 | $200 | Not yet |
 | [0013](items/0013.md) | JavaScript SDK | gto90 | TBD | Not yet |
 | [0014](items/0014.md) | Kotlin SDK | gto90 | TBD | Not yet |
 | [0015](items/0015.md) | Swift SDK | gto90 | TBD | Not yet |
