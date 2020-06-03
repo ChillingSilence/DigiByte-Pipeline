@@ -2,6 +2,10 @@
 
 A list of items that we want to do for DigiByte, some with / without bounties etc attached, and others simply as a great way to cut your teeth on DigiByte
 
+As a completely permissionless blockchain that was a fairly launched, non-ICO project, without a 100% pre-mine or a war-chest of funds, DigiByte is a permissionless project without any single centrally controlling body. As such there is no "whitepaper" with a "roadmap" as many ICO-based projects have that many cryptocurrency investors unfortunately expect. However, in terms of forward-thinking, there are many things that separate individuals / groups / entities across the blockchain space are interested in implementing to push the DigiByte project forward. This is what you will find here in lieu of any whitepaper
+
+As such there is no timeframe, or even guarantee that these will ever specifically be implemented. Even if they are implemented (Say in to DigiByte Core wallet), there is still no guarantee that consensus will be attained by the network, and so the items here should be treated as such.
+
 Would you like to contribute? Open a pull request to modify the item and / or a GitHub issue to ask questions etc
 
 ## Smaller action items
@@ -41,7 +45,7 @@ Ongoing projects to dramatically improve Developer Engagement and Experience
 
 | Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
 | --- | --- | --- | --- | --- |
-| [0012](items/0012.md) | Self Contained DigiByte Testnet CLI (testnet container running a full node, CLI interface for interacting with the node) | gto90 | TBD | Not yet |
+| [0012](items/0012.md) | Self Contained DigiByte Testnet CLI (testnet container running a full node, CLI interface for interacting with the node) | gto90 | $200 | Not yet |
 | [0013](items/0013.md) | JavaScript SDK | gto90 | TBD | Not yet |
 | [0014](items/0014.md) | Kotlin SDK | gto90 | TBD | Not yet |
 | [0015](items/0015.md) | Swift SDK | gto90 | TBD | Not yet |
