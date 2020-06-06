@@ -19,7 +19,7 @@ These are great for cutting your teeth on and getting introduced to DigiByte
 | [0007](items/0007.md) | Dividends for DigiAssets | ChillingSilence | Yes | Yes |
 | [0009](items/0009.md) | Document Notarization website | ChillingSilence | Yes | No |
 | [0010](items/0010.md) | Update Core Wallet UI | ChillingSilence | No | No |
-| [0011](items/0011.md) | Videos for the website | Murat | Potentially | Not yet |
+| [0011](items/0011.md) | Videos for the website | Murat | Potentially | Yes |
 | [0027](items/0027.md) | Mobile app DigiAsset management | ChillingSilence | No | No |
 | [0028](items/0028.md) | DigiAsset showcasing on mobile | ChillingSilence | No | No |
 | [0029](items/0029.md) | Store mobile "memo" in OP_RETURN | ChillingSilence | No | No |
